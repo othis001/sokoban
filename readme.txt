@@ -1,6 +1,5 @@
 Oliver Thistlethwaite
 Joseph Vannucci
-10/21/03
 CS 494 Lab 5 Sokoban Editor readme
 
 
